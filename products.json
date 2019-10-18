@@ -54,5 +54,20 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Tesla Bike",
+        "image": "tesla-bike.jpg",
+        "description": "Best sports car in the World",
+        "price": 247000.99
+    },
+     {
+        "id": "10",
+        "title": "Tesla Bike",
+        "image": "tesla-bike.jpg",
+        "description": "Best sports car in the World",
+        "price": 250999.99
     }
+
 ]
